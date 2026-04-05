@@ -36,19 +36,6 @@ git clone https://github.com/Purvika18/laundrywala-android-app
 2. Open in **Android Studio**
 3. Let Gradle sync finish
 4. Run on emulator or physical device (Android 8.0+)
-
----
-
-## Project structure
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/        # Activity and logic files
-│   │   │   ├── res/         # Layouts, drawables, strings
-│   │   │   └── AndroidManifest.xml
-├── gradle/
-└── build.gradle
-
 ---
 
 ## Built with
