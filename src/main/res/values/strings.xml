@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LaundaryWala</string>
+    <string name="Laundary_Wala">Welcome to Laundary Wala</string>
+    <string name="Laundary_Wala_Background_frontPage">Front page background image for app</string>
+    <string name="loginText">Login</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_log_in">Click To Log in</string>
+    <string name="click_to_register">Click To register</string>
+    <string name="log_out">Log Out</string>
+    <string name="press_to_logout">Press To Logout</string>
+    <string name="slogan">Solution For all Laundry problems</string>
+    <string name="MyOrder">My Orders</string>
+    <string name="login" />
+    <string name="pNewOrdr">Place New Order</string>
+    <string name="order_photo">Order Photo</string>
+    <string-array name="service_types_array">
+        <item>Wash &amp; Fold</item>
+        <item>Dry Clean</item>
+        <item>Iron Only</item>
+        <item>Pickup &amp; Delivery</item>
+    </string-array>
+</resources>

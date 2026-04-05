@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178836183383",
+    "project_id": "laundrybalalogin",
+    "storage_bucket": "laundrybalalogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178836183383:android:4bc902c1e96bf3e08c4612",
+        "android_client_info": {
+          "package_name": "com.example.laundarywala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTDCt5gfIgGw10wXgWARebXASN8-nV42o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
