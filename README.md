@@ -40,3 +40,18 @@ git clone https://github.com/Purvika18/laundrywala-android-app
 ---
 
 ## Project structure
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/        # Activity and logic files
+│   │   │   ├── res/         # Layouts, drawables, strings
+│   │   │   └── AndroidManifest.xml
+├── gradle/
+└── build.gradle
+
+---
+
+## Built with
+
+Java · Android Studio · Android SDK · GPS/Location API · 
+Camera API · Material Design
